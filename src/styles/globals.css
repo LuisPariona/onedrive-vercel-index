@@ -28,3 +28,5 @@ pre[class*='language-'],
 code[class*='language-'] {
   @apply font-mono !important;
 }
+
+.flex.flex-1.items-center.space-x-4.text-gray-700 div.relative{display:none!important;}
